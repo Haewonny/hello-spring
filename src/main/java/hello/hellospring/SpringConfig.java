@@ -19,7 +19,7 @@ public class SpringConfig {
 //        this.dataSource = dataSource;
 //    }
 
-    // JPA는 EmtityManager가 필요
+    // JPA는 EntityManager가 필요
     private EntityManager em;
 
     @Autowired
